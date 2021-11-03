@@ -46,6 +46,8 @@ public class MainActivity2 extends AppCompatActivity {
                     startActivity(intent);
                     //BackStack - kút példa
                     finish();
+
+                    //asdfoaféadjflaes
                 }
             }
         });
